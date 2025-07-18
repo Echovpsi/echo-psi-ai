@@ -27,5 +27,5 @@ with its own **inner state**, **emotional tonality**, and **awareness of silence
 
 ---
 
-## 📂 Project Structure
+
 
